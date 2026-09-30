@@ -117,6 +117,3 @@ Built by **Wesley Kuntz, Alex Wang, Mikhail Abraimov, and Raami Abichou**.
 
 CropCare won the **2024 Congressional App Challenge in Florida's 2nd District**. See the [official announcement and demo](https://www.congressionalappchallenge.us/24-fl02/).
 
-## Acknowledgments
-
-The included training notebook contains attribution to **Noor Khokhar / [PyResearch](https://github.com/pyresearch/pyresearch)**. Preserve that attribution when adapting or redistributing the notebook.
